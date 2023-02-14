@@ -20,5 +20,5 @@ Personal React.js template with TypeScript & TailwindCSS.
 ## Usage
 
 ```bash
-git clone https://github.com/kensoz/vue-template.git
+git clone https://github.com/kensoz/react-template.git
 ```
