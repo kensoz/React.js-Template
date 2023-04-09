@@ -5,18 +5,6 @@
 Personal React.js template with TypeScript & TailwindCSS.
 
 
-
-## Stack
-
-| Name        | Ver  |
-| ----------- | ---- |
-| React.js    | 18   |
-| Vite        | 4    |
-| TailwindCSS | 3    |
-| TypeScript  | 4.9  |
-
-
-
 ## Usage
 
 ```bash
